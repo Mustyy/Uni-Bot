@@ -1,0 +1,22 @@
+{
+  "name": "unibot",
+  "version": "1.0.0",
+  "description": "UniBot AI Assistant for Concordia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Mustyy)"
+  },
+  "author": "Mustafa Ibrahim",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.2",
+    "request": "^2.79.0"
+  }
+}
